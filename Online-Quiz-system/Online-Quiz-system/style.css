@@ -1,0 +1,49 @@
+body{
+	font-family: Tahoma,Geneva,sans-serif;
+	color: #ffff00;
+	background-image: url(1.jpg); 
+	background-size: cover;
+
+}
+
+.forms{
+	background-size: cover;
+	background: rgba(44,62,80,0.7);
+	padding: 40px;
+	width: 750px;
+	margin: auto;
+	margin-top: 30px;
+	margin-left: 180px;
+	position: absolute;
+	left: 12%;
+}
+
+h2{
+	text-align: center;
+	color: black;
+}
+
+h1{
+	text-align: center;
+	color: black;
+}
+
+h3{
+	text-align: center;
+	color: black;
+}
+
+.btn{
+	border:none;
+	width: 150px;
+	font-size: 16px;
+	line-height: 25px;
+	padding: 10px 0;
+	border-radius: 15px;
+	cursor: pointer;
+	color: #fff;
+	background-color: #40ff00 ;
+	
+
+}
+
